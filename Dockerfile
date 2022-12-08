@@ -1,4 +1,4 @@
-FROM rust:1.64
+FROM rust:1.65
 
 RUN useradd -ms /bin/bash rust
 
